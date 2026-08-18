@@ -14,7 +14,7 @@ This project only requires the Python standard library
 
 The script requires two configuration files:
 
-* `emails.csv` should contain the email addresses to send the message to.
+* `emails.csv` should contain the email addresses to send the message to
 * `credentials.txt` should contain your SMTP server login credentials,
   with your user name and your password on sepate lines,
   with no additional whitespace or other decorations.
